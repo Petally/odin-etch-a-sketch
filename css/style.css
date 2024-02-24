@@ -1,0 +1,18 @@
+#gridContainer {
+    display: flex;
+    width: 512px;
+    height: 512px;
+}
+
+.row-div {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.row-item-div {
+    background-color: #fff;
+    width: 100%;
+    height: 100%;
+}
